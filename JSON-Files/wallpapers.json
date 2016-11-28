@@ -43,7 +43,27 @@
                     {
                         "author": "Mike Anderson",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity9.jpg",
-                        "name": "serenity9"                  
+                        "name": "serenity9"
+                    },
+                    {    
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity10.jpg",
+                        "name": "serenity10"
+                    },
+                    {  
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity11.jpg",
+                        "name": "serenity11"
+                    },
+                    {
+                       "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity12.jpg",
+                        "name": "serenity12"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity13.jpg",
+                        "name": "serenity13"
                     }
           ]
 }
